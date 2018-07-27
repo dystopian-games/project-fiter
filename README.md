@@ -31,6 +31,7 @@
         <li>Build tester: all<sup>(undefined)</sup>
       </ul></li>
     </ol>
+    <p>Please access the necessary files, and <b> only </b> push a commit once agreed upon <a href="https://bit.ly/2EBUPAl">(ambiguation)</a></p>
     <div id="/2"><h3>Info</h3></div>
     <div id="/3"><h3></h3></div>
   </body>

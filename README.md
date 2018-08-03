@@ -1,7 +1,8 @@
 Project Fiter
 =============
 
-##### 2D platformer, partially based on [Mario Bros](https://en.wikipedia.org/wiki/Mario_Bros.)  
+##### 2D platformer, partially based on [Mario Bros](https://en.wikipedia.org/wiki/Mario_Bros.)  We, as a team, want to create a game together, and learn about the process.
+##### The game starts with the objective of touching the end flag, with enemies and powerups along the way, which can be activated or killed by touching or jumping on respectively.The avatar starts off as a slime, trying to
 
 Table of Contents
 -----------------

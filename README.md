@@ -1,4 +1,4 @@
-Each fProject Fiter
+Project Fiter
 =============
 
 ##### 2D scroller platformer, partially based on [Mario Bros](https://en.wikipedia.org/wiki/Mario_Bros.). We, as a team, want to create a game together, and learn about the process.
@@ -36,3 +36,4 @@ Each of the characters has 3 abilities: melee, weapon and an ultimate.
 *  Melee: Short ranged, low damage
 *  Weapon: Can be either short or long range, primary damage, has a set cooldown
 *  Ultimate: A powerful ability which assists the player in battle. Provide buffs or debuffs to the player(s) or enemies
+Each hero has different abilities, but the the melee has only a different animation

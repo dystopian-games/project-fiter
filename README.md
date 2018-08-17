@@ -22,11 +22,13 @@ Roles
     *   Designer of Lore and Story: Goutham
 3.  Game Design
     *   Game Designer: Barry
-4.  Code Development
+4.  Sound Engineer
+    *   Music Manager: Goutham
+5.  Code Development
     *   Programmer: Barry
-5.  Management
+6.  Management
     *   Communication and Compatability Manager: Goutham
-6.  Build and Testing
+7.  Build and Testing
     *   Build tester: All
 
 Please access the necessary files, and **only** push a commit once agreed upon or use branches[(ambiguation)](https://bit.ly/2EBUPAl)

@@ -1,3 +1,5 @@
+
+
 Project Fiter
 =============
 
@@ -40,13 +42,24 @@ Each of the characters has 3 abilities: melee, weapon and an ultimate.
 *  Ultimate: A powerful ability which assists the player in battle. Provide buffs or debuffs to the player(s) or enemies
 Each hero has different abilities, but the the melee has only a different animation
 
-### Relics
-Earning relics
+### Animated Sprites
+* Senfer
+   - The protagonist; wants to defeat the evil wizard to regain his throne in the kingdom of Camelot
+   - Son of the former king, Son of the primordial goddess 
+* Smaug
+   - 
+* 
+
+### Abilities
+# Relics
    The player earns relics by finishing the first level and slaying the dragon. For the last relic, after the omen from the wizard, he is granted the final relic by his mother.
 Ancient Relics
 * (Passive) The first of the relics, is the Relic of Power. It allows the player to deal double damage.
-* (Active) The second relic is the Relic of Speed. It grants a 2 second duration x2 multiplier of speed. Its cooldown is 5 seconds long.
-* () The third and final Relic of Flight.
+* (Active) The second relic is the Relic of Speed. It grants a 2 second duration x2 multiplier of speed. Its cooldown is 5 seconds
+long.
+
+# Angel's Blessing
+   
 
 ### Level 1
 

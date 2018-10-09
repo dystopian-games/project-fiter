@@ -25,7 +25,7 @@ Roles
 4.  Sound Engineer
     *   Music Manager: Goutham
 5.  Code Development
-    *   Programmer: Barry
+    *   Programmer: Barry, Goutham 
 6.  Management
     *   Communication and Compatability Manager: Goutham
 7.  Build and Testing

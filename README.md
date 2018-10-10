@@ -33,7 +33,8 @@ Roles
 7.  Build and Testing
     *   Build tester: All
 
-Please access the necessary files, and **only** push a commit once agreed upon or use branches[(ambiguation)](https://bit.ly/2EBUPAl)
+#### Committing new files
+Please access only the necessary files, and **only** push a commit once agreed upon or use [branches](https://bit.ly/2EBUPAl)
 
 ### Info
 Each of the characters has 3 abilities: melee, weapon and an ultimate.
@@ -45,21 +46,24 @@ Each hero has different abilities, but the the melee has only a different animat
 ### Animated Sprites
 * Senfer
    - The protagonist; wants to defeat the evil wizard to regain his throne in the kingdom of Camelot
-   - Son of the former king, Son of the primordial goddess 
+   - Son of the former king, Son of the primordial goddess, Prince of Camelot
 * Smaug
-   - 
-* 
+   - The evil wizard's steed; his goal is the same as the evil wizard's, to kill the budding king
+   - Steed of the evil wizard
+* The evil wizard
+   - The antagonist; yearns to kill the prince and succeed as a dictator
+	- Owner of Smaud, Enemy of the former king
 
 ### Abilities
 # Relics
-   The player earns relics by finishing the first level and slaying the dragon. For the last relic, after the omen from the wizard, he is granted the final relic by his mother.
+   The player earns relics by finishing the first level and slaying the dragon. For the last relic, after the omen from the wizard, he is granted a blessing by his mother.
 Ancient Relics
 * (Passive) The first of the relics, is the Relic of Power. It allows the player to deal double damage.
 * (Active) The second relic is the Relic of Speed. It grants a 2 second duration x2 multiplier of speed. Its cooldown is 5 seconds
 long.
 
 # Angel's Blessing
-   
+   The Angel's Blessing is a power unlocked by Senfer's mother, who is a goddess
 
 ### Level 1
 

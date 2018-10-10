@@ -8,7 +8,7 @@ Project Fiter
 
 Table of Contents
 -----------------
-
+	
 ### [How to contribute](#/1)
 
 ### [Of interest](#/2)
@@ -18,8 +18,8 @@ Table of Contents
 Roles
 1.  Artist
     *   Drafter: Goutham
-    *   2D Character and Map Designer: Liang
-    *   3D Character and Map Designer: Barry
+	    *   2D Character and Map Designer: Liang
+     *   3D Character and Map Designer: Barry
 2.  Story Design
     *   Designer of Lore and Story: Goutham
 3.  Game Design
@@ -52,7 +52,7 @@ Each hero has different abilities, but the the melee has only a different animat
    - Steed of the evil wizard
 * The evil wizard
    - The antagonist; yearns to kill the prince and succeed as a dictator
-	- Owner of Smaud, Enemy of the former king
+	 - Owner of Smaud, Enemy of the former king
 
 ### Abilities
 # Relics

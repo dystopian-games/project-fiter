@@ -58,9 +58,11 @@ Each hero has different abilities, but the the melee has only a different animat
 # Relics
    The player earns relics by finishing the first level and slaying the dragon. For the last relic, after the omen from the wizard, he is granted a blessing by his mother.
 Ancient Relics
-* (Passive) The first of the relics, is the Relic of Power. It allows the player to deal double damage.
+* (Passive) The first of the relics, is the Relic of Power. It allows the player to deal double damage. It looks like a golden talisman.
 * (Active) The second relic is the Relic of Speed. It grants a 2 second duration x2 multiplier of speed. Its cooldown is 5 seconds
-long.
+long. It resembles a syringe.
+* (Weapon) The third relic is the Relic of . It appears like a .
+
 
 # Angel's Blessing
    The Angel's Blessing is a power unlocked by Senfer's mother, who is a goddess

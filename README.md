@@ -1,5 +1,4 @@
 
-
 Project Fiter
 =============
 
@@ -18,8 +17,8 @@ Table of Contents
 Roles
 1.  Artist
     *   Drafter: Goutham
-	    *   2D Character and Map Designer: Liang
-     *   3D Character and Map Designer: Barry
+    *   2D Character and Map Designer: Liang
+    *   3D Character and Map Designer: Barry
 2.  Story Design
     *   Designer of Lore and Story: Goutham
 3.  Game Design

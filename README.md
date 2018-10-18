@@ -60,12 +60,12 @@ Ancient Relics
 * (Passive) The first of the relics, is the Relic of Power. It allows the player to deal double damage. It looks like a golden talisman.
 * (Active) The second relic is the Relic of Speed. It grants a 2 second duration x2 multiplier of speed. Its cooldown is 5 seconds
 long. It resembles a syringe.
-* (Weapon) The third relic is the Relic of . It appears like a .
+
 
 
 # Angel's Blessing
    The Angel's Blessing is a power unlocked by Senfer's mother, who is a goddess
-
+*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed, rotation speed) to be slightly greater than the wizard's (although exxagerated within the game).
 ### Level 1
 
 

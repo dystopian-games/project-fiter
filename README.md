@@ -49,10 +49,10 @@ Each hero has different abilities, but the the melee has only a different animat
 * Smaug
    - The evil wizard's steed; his goal is the same as the evil wizard's, to kill the budding king
    - Steed of the evil wizard
-* The Evil Wizard Gardar
+* The evil wizard: Gardar
    - The antagonist; yearns to kill the prince and succeed as a dictator
 	 - Owner of Smaud, Enemy of the former king
-* The Wizard polythemus
+* The wizard: Polythemus
    - Explains the mechanics of the game integrated into the story in the tutorial
    - continues the story through interactions with 'Senfer'    
 ### Abilities

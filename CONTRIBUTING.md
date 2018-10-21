@@ -1,13 +1,13 @@
  # Contributing
 ---
 ### Introduction
-Contributing is an integral part of the development cycle, and we want it everything be compatible with each other. 
+Contributing is an integral part of the development cycle, and we want everything be compatible with each other. 
 So this document will detail all the conventions used for both internal and external use.
 #### Sprites and Objects
 Sprites: Keep a minimum of sprites please
 Objects: Keep a minimum of objects, and instead reuse them
 ##### Naming Conventions
-When naming objects, sprites and variables:
+When naming functions, objects, sprites and variables:
 * The prefix should be the object using it, e.g. player_spr, player_obj, and player_x.
 * The suffix(es) should be the child name in relation to the parent. Possible child names:
   - spr
@@ -16,11 +16,9 @@ When naming objects, sprites and variables:
 
 #### Code
 When coding, make little comments; they'll make debugging much easier
-* The prefix and suffix(es) should all be separated by underscores, e.g. parent_child_anotherchild. 
-17
-[snake_case](https://en.wikipedia.org/wiki/Snake_case)
-18
+* The prefix and suffix(es) should all be separated by underscores, e.g. parent_child_anotherchild. [snake_case](https://en.wikipedia.org/wiki/Snake_case)
 * Methods of objects should use lowerCamelCase [lowerCamelCase](https://en.wikipedia.org/wiki/Camel_case)
+* Always put spaces around operators ( = + - * / ), and after commas
 
 ###### Commenting
 Comments; They either break or fix you.

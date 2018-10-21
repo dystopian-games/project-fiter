@@ -8,7 +8,7 @@ Sprites: Keep a minimum of sprites please
 Objects: Keep a minimum of objects, and instead reuse them
 ##### Naming Conventions
 When naming functions, objects, sprites and variables:
-* The prefix should be the object using it, e.g. player_spr, player_obj, and player_x.
+* The prefix should be the object using it, e.g. player_spr and player_obj.
 * The suffix(es) should be the child name in relation to the parent. Possible child names:
   - spr
   - obj

@@ -3,7 +3,7 @@ Project Fiter
 =============
 
 ##### 2D scroller platformer, based on the adventure of Senfer. We, as a team, want to create a game together, and learn about the process.
-##### The game starts with the objective of defeating the wizard boss, with enemies and powerups along the way, which can be activated or killed by touching or jumping on respectively. As the player completes each level, they collect ancient relics which grant them powers. The player starts off as a character, trying to avoid dying and defeating the bosses. The player is allowed a range of utilities to assist the left-to-right journey.
+##### The game starts with the objective of defeating the wizard boss, with enemies and powerups along the way, which can be activated or killed by touching or jumping on respectively. The player starts off as a character, trying to avoid dying and defeating the bosses. As the player completes each level, they collect ancient relics which grant them powers. The player is allowed a range of utilities to assist the left-to-right journey.
 
 Table of Contents
 -----------------
@@ -67,7 +67,6 @@ long. It resembles a syringe.
 
 # Angel's Blessing
    The Angel's Blessing is a power unlocked by Senfer's mother, who is a goddess
-*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed, rotation speed) to be slightly greater than the wizard's (although exxagerated within the game).
+*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed, rotation speed) to be slightly greater than the wizard's (although exxagerated within the game).*
 ### Level 1
-
-
+   The first level starts in a small black room, where the player is introduced to the protagonist, Senfer. The player learns to move and eventually touches an object in the center of the room. It's the light switch and when switched on, reveals a horrifying background, pixel art of the evil wizard taking over the throne. Oof course, it is drawn with blood.

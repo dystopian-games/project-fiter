@@ -58,6 +58,7 @@ Each hero has different abilities, but the the melee has only a different animat
    - Explains the mechanics of the game integrated into the story in the tutorial
    - continues the story through interactions with 'Senfer'    
 ### Abilities
+
 # Relics
    The player earns relics by finishing the first level and slaying the dragon. For the last relic, after the omen from the wizard, he is granted a blessing by his mother.
 Ancient Relics
@@ -65,10 +66,9 @@ Ancient Relics
 * (Active) The second relic is the Relic of Speed. It grants a 2 second duration x2 multiplier of speed. Its cooldown is 5 seconds
 long. It resembles a syringe.
 
-
-
 # Angel's Blessing
    The Angel's Blessing is a power unlocked by Senfer's mother, who is a goddess
-*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed, rotation speed) to be slightly greater than the wizard's (although exxagerated within the game).*
+*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed, rotation speed) to be slightly greater than the wizard's (although exagerated within the game).*
+
 ### Level 1
-   The first level starts in a small black room, where the player is introduced to the protagonist, Senfer. The player learns to move and eventually touches an object in the center of the room. It's the light switch and when switched on, reveals a horrifying background, pixel art of the evil wizard taking over the throne. Oof course, it is drawn with blood.
+   The first level starts in a small black room, where the player is introduced to the protagonist, Senfer. The player learns to move and eventually touches an object in the center of the room. It's the light switch and when switched on, reveals a horrifying background, pixel art of the evil wizard taking over the throne. Of course, it is drawn with blood.

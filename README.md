@@ -4,6 +4,8 @@ Project Fiter
 
 ##### 2D scroller platformer, based on the adventure of Senfer. We, as a team, want to create a game together, and learn about the process.
 ##### The game starts with the objective of defeating the wizard boss, with enemies and powerups along the way, which can be activated or killed by touching or jumping on respectively. The player starts off as a character, trying to avoid dying and defeating the bosses. As the player completes each level, they collect ancient relics which grant them powers. The player is allowed a range of utilities to assist the left-to-right journey.
+#### Message to devs: 
+- Please use the the 16:9 resolution ratio
 
 Table of Contents
 -----------------

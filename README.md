@@ -9,7 +9,7 @@ Project Fiter
 Table of Contents
 -----------------
 	
-### [How to contribute](#/1)
+## [How to contribute](#/1)
 
 ### [Of interest](#/2)
 
@@ -29,7 +29,7 @@ Roles
 5.  Code Development
     *   Programmer: Barry, Goutham 
 6.  Management
-    *   Communication and Compatability Manager: Goutham
+s    *   Communication and Compatability Manager: Goutham
 7.  Build and Testing
     *   Build tester: All
 
@@ -43,6 +43,9 @@ Each of the characters has 3 abilities: melee, weapon and an ultimate.
 *  Ultimate: A powerful ability which assists the player in battle. Provide buffs or debuffs to the player(s) or enemies
 Each hero has different abilities, but the the melee has only a different animation
 
+### Player View
+The player views the character at a downward angle, with the centered character responding instantaneously to user commands.
+
 ### Animated Sprites
 * Senfer
    - The protagonist; wants to defeat the evil wizard to regain his throne in the kingdom of Camelot
@@ -55,7 +58,7 @@ Each hero has different abilities, but the the melee has only a different animat
 	 - Owner of Smaud, Enemy of the former king
 * The wizard: Polythemus
    - Explains the mechanics of the game integrated into the story in the tutorial
-   - continues the story through interactions with 'Senfer'    
+   - Continues the story through interactions with 'Senfer'    
 ### Abilities
 
 # Relics
@@ -67,7 +70,7 @@ long. It resembles a syringe.
 
 # Angel's Blessing
    The Angel's Blessing is a power unlocked by Senfer's mother, who is a goddess
-*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed, rotation speed) to be slightly greater than the wizard's (although exagerated within the game).*
+	*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed) to be slightly greater than the wizard's (although exagerated within the game).*
 
 ### Level 1
    The first level starts in a small black room, where the player is introduced to the protagonist, Senfer. The player learns to move and eventually touches an object in the center of the room. It's the light switch and when switched on, reveals a horrifying background, pixel art of the evil wizard taking over the throne. Of course, it is drawn with blood.

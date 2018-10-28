@@ -1,5 +1,4 @@
-//
-if (ev_mouse_enter) {show_message(ev_mouse_enter)};
+// take the action variable of the instance and use it
 switch(action) 
 {
 	// direct to the levels and I didn't make a function because I'm nice. Happens every click

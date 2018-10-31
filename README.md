@@ -79,7 +79,7 @@ long. It resembles a syringe.
 
 # Angel's Blessing
    The Angel's Blessing is a power unlocked by Senfer's mother, who is a goddess
-	*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed) to be slightly greater than the wizard's (although exagerated within the game).*
+	*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed) to be slightly greater than the wizard's (although exagerated within the game). It changes the appearance of Senfer to that with flaming eyes.*
 
 ### Level 1
-   The first level starts in a small black room, where the player is introduced to the protagonist, Senfer. The player learns to move and eventually touches an object in the center of the room. It's the light switch and when switched on, reveals a horrifying background, pixel art of the evil wizard taking over the throne. Of course, it is drawn with blood.
+   The player wakes, then light spontaneously occurs, lighting up the blood on the walls. (Having pixel art of the wizard doesn't make sense)

@@ -11,9 +11,11 @@ Table of Contents
 	
 ## [How to contribute](#/1)
 
-### [Of interest](#/2)
+## [Of interest](#/2)
 
-### [Documentation](#/3)
+## [Documentation](#/3)
+
+## [Global Methods](#/4)
 
 Roles
 1.  Artist
@@ -43,6 +45,13 @@ Each of the characters has 3 abilities: melee, weapon and an ultimate.
 *  Ultimate: A powerful ability which assists the player in battle. Provide buffs or debuffs to the player(s) or enemies
 Each hero has different abilities, but the the melee has only a different animation
 
+### Global Methods
+There are a few global methods that you can invoke. Their return type, input type, and other will be specified.
+##### specific_animation - Plays the frames
+```
+
+```
+
 ### Player View
 The player views the character at a downward angle, with the centered character responding instantaneously to user commands.
 
@@ -70,7 +79,7 @@ long. It resembles a syringe.
 
 # Angel's Blessing
    The Angel's Blessing is a power unlocked by Senfer's mother, who is a goddess
-	*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed) to be slightly greater than the wizard's (although exagerated within the game).*
+	*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed) to be slightly greater than the wizard's (although exagerated within the game). It changes the appearance of Senfer to that with flaming eyes.*
 
 ### Level 1
-   The first level starts in a small black room, where the player is introduced to the protagonist, Senfer. The player learns to move and eventually touches an object in the center of the room. It's the light switch and when switched on, reveals a horrifying background, pixel art of the evil wizard taking over the throne. Of course, it is drawn with blood.
+   The player wakes, then light spontaneously occurs, lighting up the blood on the walls. (Having pixel art of the wizard doesn't make sense)

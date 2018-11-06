@@ -1,0 +1,38 @@
+@charset "utf8";
+html {
+	background-color: navy;
+	position: absolute;
+}
+a#siteLink {
+	text-decoration: none;
+	color: white;
+}
+div#homebar {
+	position: absolute;
+	top: -10px;
+	background-color: midnightblue;
+	height: auto;
+	width: 1420px;
+	border-bottom: 1px solid black;
+}
+.headers {
+	color: #FFFFFF;
+}
+div#backToTop {
+	position: fixed;
+	font-size: small;
+	padding: 0px 5px;
+	margin-top: 480px;
+	margin-left: 100px;
+	border: 5px solid white;
+	border-right-style: inset;
+	border-bottom-style: outset;
+	background-color: blue;
+	z-index: 99px;
+}
+div#backToTop:hover {
+	background-color: slateblue;
+	border: 5px solid Gainsboro;
+	border-top-style: inset;
+	border-left-style: outset;
+}

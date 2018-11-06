@@ -263,14 +263,6 @@
             }
         },
         {
-            "Key": "f3e39ff3-557c-4c2b-9123-6f114fdae327",
-            "Value": {
-                "id": "b5a8d0e7-6b88-482a-ae49-f8ad3eafba4a",
-                "resourcePath": "rooms\\level_tutorial\\level_tutorial.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "506b0582-a16d-48ba-8a65-e3853e8c8ee3",

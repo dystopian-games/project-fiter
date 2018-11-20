@@ -9,13 +9,13 @@ Project Fiter
 Table of Contents
 -----------------
 	
-## [How to contribute](#/1)
+### [How to contribute](#/1)
 
-## [Of interest](#/2)
+### [Of interest](#/2)
 
-## [Documentation](#/3)
+### [Documentation](#/3)
 
-## [Global Methods](#/4)
+### [Global Methods](#/4)
 
 Roles
 1.  Artist
@@ -49,8 +49,15 @@ Each hero has different abilities, but the the melee has only a different animat
 There are a few global methods that you can invoke. Their return type, input type, and other will be specified.
 ##### specific_animation - Plays the frames
 ```
-
 ```
+##### display_text - Displays text in box
+```
+display_text(array_of_text)
+```
+* Removes any text instances before it
+* Types the text slowly but can be skipped
+* Displays **all** the text in the array
+* Synchronous
 
 ### Player View
 The player views the character at a downward angle, with the centered character responding instantaneously to user commands.
@@ -82,4 +89,4 @@ long. It resembles a syringe.
 	*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed) to be slightly greater than the wizard's (although exagerated within the game). It changes the appearance of Senfer to that with flaming eyes.*
 
 ### Level 1
-   The player wakes, then light spontaneously occurs, lighting up the blood on the walls. (Having pixel art of the wizard doesn't make sense)
+   

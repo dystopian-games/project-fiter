@@ -60,7 +60,7 @@ display_text(array_of_text)
 * Synchronous
 
 ### Player View
-The player views the character at a downward angle, with the centered character responding instantaneously to user commands.
+The player is between the centre and the bottom of the screen, and the text appears underneath him.
 
 ### Animated Sprites
 * Senfer
@@ -71,22 +71,34 @@ The player views the character at a downward angle, with the centered character 
    - Steed of the evil wizard
 * The evil wizard: Gardar
    - The antagonist; yearns to kill the prince and succeed as a dictator
-	 - Owner of Smaud, Enemy of the former king
+   - Owner of Smaud, Enemy of the former king
 * The wizard: Polythemus
    - Explains the mechanics of the game integrated into the story in the tutorial
    - Continues the story through interactions with 'Senfer'    
 ### Abilities
 
-# Relics
+#### Relics
    The player earns relics by finishing the first level and slaying the dragon. For the last relic, after the omen from the wizard, he is granted a blessing by his mother.
 Ancient Relics
 * (Passive) The first of the relics, is the Relic of Power. It allows the player to deal double damage. It looks like a golden talisman.
 * (Active) The second relic is the Relic of Speed. It grants a 2 second duration x2 multiplier of speed. Its cooldown is 5 seconds
 long. It resembles a syringe.
 
-# Angel's Blessing
+#### Angel's Blessing
    The Angel's Blessing is a power unlocked by Senfer's mother, who is a goddess
 	*This power grants Senfer the ability to call upon the sacred horn of the goddesses which allows Senfer's powers (damage, speed) to be slightly greater than the wizard's (although exagerated within the game). It changes the appearance of Senfer to that with flaming eyes.*
+	
+### Leveling
+   The game is comprised of 1 homescreen, 4 levels, and 1 final level
+### Homescreen
+   Contains background,  the name of the game, and interactable button. The events may be modified in the 'Create' event, the instance variable (identifying variable) being **action**.
+#### Level 1
+   After pressing play, the player is brought to **Level 1**. The player draw event starts the game. All necessary events should directly or indirectly be affected by the player spawn.
+#### Level 2
+   By defeating the **Level 1** 'boss', they are brought by.
+#### Level 3
 
-### Level 1
-   
+#### Level 4
+
+### Data saving
+   Only the level and ability data should be saved in the client. The player data will be saved on a MySQL database.

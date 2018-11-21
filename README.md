@@ -61,6 +61,13 @@ display_text(array_of_text)
 
 ### Player View
 The player is between the centre and the bottom of the screen, and the text appears underneath him.
+##### Depth
+The higher the number, the further away the camera is to that depth
+Depth convention
+* Background : 100>-200
+* Background objects : 0>-100
+* Player : 0
+* Forground objects : -100->0
 
 ### Animated Sprites
 * Senfer

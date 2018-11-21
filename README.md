@@ -67,7 +67,8 @@ Depth convention
 * Background : 100>-200
 * Background objects : 0>-100
 * Player : 0
-* Forground objects : -100->0
+* Foreground objects : -100->0
+* Text boxes :  -200
 
 ### Animated Sprites
 * Senfer

@@ -1,4 +1,4 @@
-//
+// draw the button and its events
 draw_self();
 
 draw_set_halign(fa_center);

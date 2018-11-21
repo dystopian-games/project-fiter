@@ -6,7 +6,8 @@
 // variables to be passed
 var text = argument[0];
 
-// do some checking for null or undefined and already exists
-if (instance_exists(text_box_obj)) {
-	instance_destroy(text_box_obj);
-}
+// do some checking for nonstring and already exists
+if text != typeof(string) exit;
+
+// create object
+instance_create_depth(view_get_xport(0), (view_get_yport(0)/3), -200, text_box_obj);

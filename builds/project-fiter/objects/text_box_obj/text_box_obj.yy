@@ -5,13 +5,13 @@
     "name": "text_box_obj",
     "eventList": [
         {
-            "id": "6f216676-0f82-49ae-90c8-9b1b59b4e6b5",
+            "id": "a0a24bf9-5f8f-4d18-8ef5-247b84e6e51b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
+            "eventtype": 8,
             "m_owner": "f41b965a-aaa0-4cd6-906b-5230193d4611"
         }
     ],
@@ -33,7 +33,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "32ba32f4-992e-4154-8ac4-c86363b560ec",
+            "id": "3f65233f-8e3b-4eb5-b3ef-35ec34c5afec",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -42,23 +42,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "True",
-            "varName": "finished",
-            "varType": 3
-        },
-        {
-            "id": "ee9c261f-7a8c-4cfa-8773-3b10d4525e65",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "finish",
-            "varType": 3
+            "value": "null",
+            "varName": "text_box_text",
+            "varType": 2
         }
     ],
     "solid": false,

@@ -8,6 +8,7 @@ switch(action)
 		break;
 	//look at all the heros
 	case 1:
+		display_text("nua");
 		break;
 	//settings page
 	case 2:

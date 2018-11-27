@@ -1,4 +1,4 @@
-// take the action variable of the instance and use it
+/// @description Take the action variable of the instance and use it
 switch(action) 
 {
 	// direct to the levels and I didn't make a function because I'm nice. Happens every click

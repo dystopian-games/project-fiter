@@ -1,0 +1,1 @@
+/// @description This object should inherit physics from the parent

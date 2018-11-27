@@ -1,17 +1,21 @@
 /// @description displays text onscreen interactable with the player
 // removes previous text boxes, meaning each draw will cause the previous
 // to disappear
-// remember to make a sprite and object for it
+// @params arg_text: text to be written
+// @returns true | false: determines success
 
 // variables to be passed
-var text = argument[0];
+var arg_text = argument[0];
 
-// do some checking for nonstring and already exists
-//if text != typeof("string") exit;
+// check for loss
+if (text == undefined || text == noone) {
+	return false;
+}
 
 // create object
-show_message("Hi");
-instance_create_depth(view_get_xport(0), (view_get_yport(0)/3), -200, text_box_obj);
+with (instance_create_depth(view_hport[0], (view_wport[0]*2/3), -200, empty)) {
+	text = arg_text;
+	instance_change(text_box_obj, true);
+};
 show_message("Anything")
 // display text on that
-draw_text_ext(20, 800, text, 2, 1600);

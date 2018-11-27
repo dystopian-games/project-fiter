@@ -4,11 +4,20 @@
     "mvc": "1.0",
     "name": "djinnman_plyr",
     "eventList": [
-        
+        {
+            "id": "c3ef689b-b772-4a5c-8103-14196fac2a96",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "663a715b-d576-4a4c-a624-340a6046582b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "e9ae1202-0814-4d1a-a8c0-fe7ee24fb1e2",
     "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

@@ -52,12 +52,13 @@ The *manifest* tag has two children:
 ###### manifestMetaData
 One child of the *manifest*. It typically holds:
 * keyValuePair - This is the account key, unutilized at this time
-  - key - Username
-  - value - The key for their account, undecided numeral system but might become base64 ASCII
+  - key : element - Username
+  - value : element - The key for their account, undecided numeral system but might become base64 ASCII
 *This is optional*
 ##### manifestContent
 One child of the *manifest*. It typically holds:
 * data - This holds the file or directory
-  - file - This might hold a file in that particular directory
+  - type : attribute - This holds the particular type, directory | file
+  - file : element - This might hold a file in that particular directory
 ##### Automatic patch creation (APC)
 ETA: *unspecified*

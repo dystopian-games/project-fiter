@@ -38,14 +38,22 @@ Unimportant sprites and objects should be called based on the background they ex
 ---
 ### Patching
 Patching requires a manifest file written in XML. It should be in the root of the directory to be downloaded. The files the application downloads from is from the *archives* folder on [master](https://github.com/dystopian-games/project-fiter/tree/master). Each should be a zip file, with the appropriate manifest, detailing all the files included. The file checking (existsFolders()) **skips over /tmp**.
-**NOTE**: There are currently no security measures on the files, which we will hopefully implement later in the form of SHA-256.
+\n**NOTE**: There are currently no security measures on the files, which we will hopefully implement later in the form of SHA-256.
 #### Manifest conventions
+Typical JS XML object
+Using the native fs module to read the xml file, we then use 'xml-js' method 'xml2js' to convert it into a javascript object.  
+| // reads file 'manifest.xml' and receives a manifest object  
+| const fs                       = require("fs");  
+| const convert                  = require("xml-js");  
+| const manifestxml              = fs.readFileSync("./manifest.xml", "utf8");  
+| const manifest                 = convert.xml2js(manifestxml, {compact: true, alwaysArray: true});  
 ##### Header Declaration and Namespace
 The declaration should be: "<?xml version="1.0" encoding="UTF-8" ?>", and the namespace: manifest
 ##### manifest
-The root of the file. This is where you should declare the namespace.
-| <manifest xmlns:manifest="https://github.com/dystopian-games/project-fiter/tree/master/archives">
-| </manifest>
+The root of the file. This is where you should declare the namespace.  
+| \<manifest xmlns:manifest="https://github.com/dystopian-games/project-fiter/tree/master/archives">  
+|     - \<data here/>  
+| \</manifest\>  
 The *manifest* tag has two children:
 * *manifestMetaData*
 * *manifestContent*

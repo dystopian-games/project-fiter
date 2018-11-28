@@ -80,6 +80,8 @@ Depth convention
 * The evil wizard: Gardar
    - The antagonist; yearns to kill the prince and succeed as a dictator
    - Owner of Smaud, Enemy of the former king
+   - Child-like features during while his 'friend'
+   - Tags along with the player along the journey
 * The wizard: Polythemus
    - Explains the mechanics of the game integrated into the story in the tutorial
    - Continues the story through interactions with 'Senfer'    

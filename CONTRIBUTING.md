@@ -59,10 +59,12 @@ The *manifest* tag has two children:
 * *manifestContent*
 ###### manifestMetaData
 One child of the *manifest*. It typically holds:
+* version - The version of the manifest file
+  - packageVersion : attribute - The version of the collective files it holds. In the form, 1.0.0
 * keyValuePair - This is the account key, unutilized at this time
   - key : element - Username
   - value : element - The key for their account, undecided numeral system but might become base64 ASCII
-*This is optional*
+*keyValuePair is optional*
 ##### manifestContent
 One child of the *manifest*. It typically holds:
 * data - This holds the file or directory

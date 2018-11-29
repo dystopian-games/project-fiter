@@ -60,7 +60,7 @@ The *manifest* tag has two children:
 ###### manifestMetaData
 One child of the *manifest*. It typically holds:
 * version - The version of the manifest file
-  - packageVersion : attribute - The version of the collective files it holds. In the form, 1.0.0
+  - packageVersion : attribute - The version of the collective files it holds. In the form, v1.0.2, where 1 is a major change, 0 is a relatively large client or serverside change, and 2 is a content change.
 * keyValuePair - This is the account key, unutilized at this time
   - key : element - Username
   - value : element - The key for their account, undecided numeral system but might become base64 ASCII

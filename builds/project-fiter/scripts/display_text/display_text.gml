@@ -8,7 +8,7 @@
 var arg_text = argument[0];
 
 // check for loss
-if (text == undefined || text == noone) {
+if (text) {
 	return false;
 }
 

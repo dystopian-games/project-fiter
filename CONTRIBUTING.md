@@ -68,7 +68,7 @@ One child of the *manifest*. It typically holds:
 One child of the *manifest*. It typically holds:
 * data - This holds the file or directory
   - type : attribute - This holds the particular type, directory | file
-  - file : element - This might hold a file in that particular directory
+  - filename : attribute - This might hold a file in that particular directory
   - data : element - This holds any another directories (recursive).
 ##### Automatic patch creation (APC)
 ETA: *unspecified*

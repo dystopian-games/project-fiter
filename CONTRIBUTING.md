@@ -70,4 +70,9 @@ One child of the *manifest*. It typically holds:
   - type : attribute - This holds the particular type, directory | file
   - file : element - This might hold a file in that particular directory
 ##### Automatic patch creation (APC)
-ETA: *unspecified*
+###### manifest_maker
+A simple manifest maker for our Project Fiter Schema. Requires [node](https://nodejs.org/en/). Once downloaded, go the **src** folder and open manifest.js in a text editor. Near the top is the one line you should edit. 
+```const location = "C:\\Users\\username\\path\\to\\project\\files"```
+Change the location to the specified location with either double slashes a single forward slash. Remember to save, then double click the script, "ManifestMaker.cmd". As of now, I won't make it an executable.
+
+The manifest maker uses third-party library *[directory-tree](https://www.npmjs.com/package/directory-tree)*. Otherwise, it uses native node modules: fs, path, readline.

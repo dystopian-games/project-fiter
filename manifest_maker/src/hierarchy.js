@@ -2,6 +2,7 @@ const hierarchyfileread  = require("directory-tree");
 const path               = require("path");
 
 "use strict";
+
 /* converttoTags - Converts object from package 'directory-tree'
  * to a string conformant to the PF manifest standard
 */

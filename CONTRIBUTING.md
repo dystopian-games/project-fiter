@@ -77,3 +77,4 @@ A simple manifest maker for our Project Fiter Schema. Requires [node](https://no
 Change the location to the specified location with either double slashes a single forward slash. Remember to save, then double click the script, "ManifestMaker.cmd". As of now, I won't make it an executable.
 
 The manifest maker uses third-party library *[directory-tree](https://www.npmjs.com/package/directory-tree)*. Otherwise, it uses native node modules: fs, path, readline.
+The manifest file should NOT be included in itself. The manifest file written to is manifest.xml in the root directory downloaded.

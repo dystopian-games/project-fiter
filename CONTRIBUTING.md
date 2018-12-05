@@ -71,4 +71,6 @@ One child of the *manifest*. It typically holds:
   - filename : attribute - This might hold a file in that particular directory
   - data : element - This holds any another directories (recursive).
 ##### Automatic patch creation (APC)
-ETA: *unspecified*
+###### manifest_maker
+ETA: 1 week
+The manifest maker - Makes a manifest based on a file hierarchy. The manifest is downloaded with the patch files.

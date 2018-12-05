@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is ALL subject to change
+NAMESPACE: manifest, ENCODING: UTF-8,
+SITE: https://github.com/dystopian-games/project-fiter/tree/stable/archives -->
+<manifest xmlns:manifest="https://github.com/dystopian-games/project-fiter/tree/stable/archives">
+		<manifestMetaData>
+		</manifestMetaData>
+		<manifestContents>
+<data type="directory" filename="project-fiterv.0.0.1">
+<data type="directory" filename="fonts">
+<data type="directory" filename="Slimytext">
+<data type="file" filename="Slimytext.png"/>
+</data>
+<data type="directory" filename="Slimytext">
+<data type="file" filename="Slimytext.yy"/>
+</data>
+</data>
+</data>
+<data type="directory" filename="project-fiterv.0.0.1">
+<data type="directory" filename="objects">
+<data type="directory" filename="button_obj">
+<data type="file" filename="button_obj.yy"/>
+</data>
+<data type="directory" filename="button_obj">
+<data type="file" filename="Draw_0.gml"/>
+</data>
+<data type="directory" filename="button_obj">
+<data type="file" filename="Mouse_10.gml"/>
+</data>
+<data type="directory" filename="button_obj">
+<data type="file" filename="Mouse_7.gml"/>
+</data>
+</data>
+<data type="directory" filename="objects">
+<data type="directory" filename="djinnman_plyr">
+<data type="file" filename="djinnman_plyr.yy"/>
+</data>
+</data>
+</data>
+<data type="directory" filename="project-fiterv.0.0.1">
+<data type="directory" filename="options">
+<data type="directory" filename="linux">
+<data type="file" filename="options_linux.yy"/>
+</data>
+</data>
+<data type="directory" filename="options">
+<data type="directory" filename="mac">
+<data type="file" filename="options_mac.yy"/>
+</data>
+</data>
+<data type="directory" filename="options">
+<data type="directory" filename="main">
+<data type="directory" filename="inherited">
+<data type="file" filename="options_main.inherited.yy"/>
+</data>
+</data>
+</data>
+<data type="directory" filename="options">
+<data type="directory" filename="windows">
+<data type="file" filename="options_windows.yy"/>
+</data>
+</data>
+</data>
+<data type="directory" filename="project-fiterv.0.0.1">
+<data type="file" filename="project-fiterv.0.0.1.yyp"/>
+</data>
+<data type="directory" filename="project-fiterv.0.0.1">
+<data type="directory" filename="rooms">
+<data type="directory" filename="homescreen">
+<data type="file" filename="homescreen.yy"/>
+</data>
+<data type="directory" filename="homescreen">
+<data type="file" filename="InstanceCreationCode_inst_1C37E08D.gml"/>
+</data>
+<data type="directory" filename="homescreen">
+<data type="file" filename="InstanceCreationCode_inst_2996C4BE.gml"/>
+</data>
+<data type="directory" filename="homescreen">
+<data type="file" filename="InstanceCreationCode_inst_612028A7.gml"/>
+</data>
+<data type="directory" filename="homescreen">
+<data type="file" filename="InstanceCreationCode_inst_75BE9A66.gml"/>
+</data>
+<data type="directory" filename="homescreen">
+<data type="file" filename="RoomCreationCode.gml"/>
+</data>
+</data>
+<data type="directory" filename="rooms">
+<data type="directory" filename="level_1">
+<data type="file" filename="level_1.yy"/>
+</data>
+</data>
+<data type="directory" filename="rooms">
+<data type="directory" filename="level_2">
+<data type="file" filename="level_2.yy"/>
+</data>
+</data>
+<data type="directory" filename="rooms">
+<data type="directory" filename="level_tutorial">
+<data type="file" filename="level_tutorial.yy"/>
+</data>
+</data>
+</data>
+<data type="directory" filename="project-fiterv.0.0.1">
+<data type="directory" filename="scripts">
+<data type="directory" filename="specific_animation">
+<data type="file" filename="specific_animation.gml"/>
+</data>
+<data type="directory" filename="specific_animation">
+<data type="file" filename="specific_animation.yy"/>
+</data>
+</data>
+</data>
+<data type="directory" filename="project-fiterv.0.0.1">
+<data type="directory" filename="sprites">
+<data type="directory" filename="button_spr">
+<data type="file" filename="4d0a9bdd-db34-4c77-b352-c5e7268d510c.png"/>
+</data>
+<data type="directory" filename="button_spr">
+<data type="file" filename="button_spr.yy"/>
+</data>
+<data type="directory" filename="button_spr">
+<data type="directory" filename="layers">
+<data type="directory" filename="4d0a9bdd-db34-4c77-b352-c5e7268d510c">
+<data type="file" filename="1ca1c7a5-e2cd-4bc0-9632-f4d98a127489.png"/>
+</data>
+</data>
+</data>
+</data>
+<data type="directory" filename="sprites">
+<data type="directory" filename="djinnman_spr">
+<data type="file" filename="80fc71f7-1c21-4e8b-ac71-d8b9e762f869.png"/>
+</data>
+<data type="directory" filename="djinnman_spr">
+<data type="file" filename="98684054-8e3e-4f18-9282-117cfe7aa3f5.png"/>
+</data>
+<data type="directory" filename="djinnman_spr">
+<data type="file" filename="9aa662a8-cb2b-4cd1-bd1a-c6c166d5ea6d.png"/>
+</data>
+<data type="directory" filename="djinnman_spr">
+<data type="file" filename="9ff46548-bfb8-4df7-a53d-165f5d6564c1.png"/>
+</data>
+<data type="directory" filename="djinnman_spr">
+<data type="file" filename="djinnman_spr.yy"/>
+</data>
+<data type="directory" filename="djinnman_spr">
+<data type="file" filename="f25c9e44-d3fb-4aac-aa3a-f777376b4b1a.png"/>
+</data>
+<data type="directory" filename="djinnman_spr">
+<data type="directory" filename="layers">
+<data type="directory" filename="80fc71f7-1c21-4e8b-ac71-d8b9e762f869">
+<data type="file" filename="88f96c3c-ca93-4cfb-ac0b-1c573172b92f.png"/>
+</data>
+</data>
+<data type="directory" filename="layers">
+<data type="directory" filename="98684054-8e3e-4f18-9282-117cfe7aa3f5">
+<data type="file" filename="88f96c3c-ca93-4cfb-ac0b-1c573172b92f.png"/>
+</data>
+</data>
+<data type="directory" filename="layers">
+<data type="directory" filename="9aa662a8-cb2b-4cd1-bd1a-c6c166d5ea6d">
+<data type="file" filename="88f96c3c-ca93-4cfb-ac0b-1c573172b92f.png"/>
+</data>
+</data>
+<data type="directory" filename="layers">
+<data type="directory" filename="9ff46548-bfb8-4df7-a53d-165f5d6564c1">
+<data type="file" filename="88f96c3c-ca93-4cfb-ac0b-1c573172b92f.png"/>
+</data>
+</data>
+<data type="directory" filename="layers">
+<data type="directory" filename="f25c9e44-d3fb-4aac-aa3a-f777376b4b1a">
+<data type="file" filename="88f96c3c-ca93-4cfb-ac0b-1c573172b92f.png"/>
+</data>
+</data>
+</data>
+</data>
+<data type="directory" filename="sprites">
+<data type="directory" filename="homescreen_background">
+<data type="file" filename="2401b1e8-e3ef-489d-99a0-917ebc64e726.png"/>
+</data>
+<data type="directory" filename="homescreen_background">
+<data type="file" filename="homescreen_background.yy"/>
+</data>
+<data type="directory" filename="homescreen_background">
+<data type="directory" filename="layers">
+<data type="directory" filename="2401b1e8-e3ef-489d-99a0-917ebc64e726">
+<data type="file" filename="0a088281-3d58-44ce-8839-60b240931620.png"/>
+</data>
+</data>
+</data>
+</data>
+<data type="directory" filename="sprites">
+<data type="directory" filename="level_organiser_button">
+<data type="file" filename="1899ba39-7c7f-4437-af78-6623374da4e4.png"/>
+</data>
+<data type="directory" filename="level_organiser_button">
+<data type="file" filename="366c2fcf-0969-41f4-bc44-9da1ac086712.png"/>
+</data>
+<data type="directory" filename="level_organiser_button">
+<data type="directory" filename="layers">
+<data type="directory" filename="1899ba39-7c7f-4437-af78-6623374da4e4">
+<data type="file" filename="ffc283fc-3649-4d07-972c-f869d47406aa.png"/>
+</data>
+</data>
+<data type="directory" filename="layers">
+<data type="directory" filename="366c2fcf-0969-41f4-bc44-9da1ac086712">
+<data type="file" filename="ffc283fc-3649-4d07-972c-f869d47406aa.png"/>
+</data>
+</data>
+</data>
+<data type="directory" filename="level_organiser_button">
+<data type="file" filename="level_organiser_button.yy"/>
+</data>
+</data>
+<data type="directory" filename="sprites">
+<data type="directory" filename="tutorial_background">
+<data type="file" filename="a5b1293c-f84d-42f9-a385-c2439a7ef5bb.png"/>
+</data>
+<data type="directory" filename="tutorial_background">
+<data type="directory" filename="layers">
+<data type="directory" filename="a5b1293c-f84d-42f9-a385-c2439a7ef5bb">
+<data type="file" filename="44db595e-8b5d-4f94-8dbe-d1a5e93c3986.png"/>
+</data>
+</data>
+</data>
+<data type="directory" filename="tutorial_background">
+<data type="file" filename="tutorial_background.yy"/>
+</data>
+</data>
+</data>
+<data type="directory" filename="project-fiterv.0.0.1">
+<data type="directory" filename="views">
+<data type="file" filename="06264f06-9fc0-4e2c-99b9-8986cb41955a.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="16afc540-c232-479a-ac64-728905a1682a.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="16c083e0-1deb-407f-82cc-8c92f5360df4.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="1b4a2bdf-f49a-43f1-9326-5644dfdd0482.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="2934dd54-acf1-44cf-866c-eec720dcad7e.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="38744bd4-a372-4a6a-bd35-636ee63376d5.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="39c90428-22a0-4c17-9915-1dcbdcdd5475.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="6a99faba-e800-4c40-bfa3-a7ff9643801e.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="77884b32-b19a-434d-98b6-65af38fddac8.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="7c98fddd-1855-4ab2-af8d-a9b041e1ba0c.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="9f2c8170-7e4b-4da5-b95e-74e6e1104eec.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="a3b1b365-8dde-4808-9b2f-0692cc6fd634.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="b28cd825-1acd-4aca-b605-036f1d101894.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="cb9e3271-2a87-48cf-87b4-9c60a0d026e3.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="df9426f4-3b59-4b90-b48d-f6f2fb268d5b.yy"/>
+</data>
+<data type="directory" filename="views">
+<data type="file" filename="fcde93b0-4c0d-46d7-8f19-8582aed42506.yy"/>
+</data>
+</data>
+    <manifestContents>

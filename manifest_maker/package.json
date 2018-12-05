@@ -1,0 +1,14 @@
+{
+  "name": "manifest_maker",
+  "version": "1.0.0",
+  "description": "Makes a PF conformant xml document",
+  "main": "ManifestMaker.cmd",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cipherix",
+  "license": "ISC",
+  "dependencies": {
+    "directory-tree": "^2.1.1"
+  }
+}

@@ -1,6 +1,8 @@
 const hierarchyfileread  = require("directory-tree");
 const path               = require("path");
 
+"use strict";
+
 /* converttoTags - Converts object from package 'directory-tree'
  * to a string conformant to the PF manifest standard
 */
@@ -43,6 +45,5 @@ module.exports = directory => {
 	// directory tree returns an object with the beginning path
 	let data = hierarchyfileread(path.win32.normalize(directory));
 	if (!data) throw "Invalid path";
-	console.log(data)
 	return converttoDataTag(data);
 };

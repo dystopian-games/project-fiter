@@ -72,5 +72,8 @@ One child of the *manifest*. It typically holds:
   - data : element - This holds any another directories (recursive).
 ##### Automatic patch creation (APC)
 ###### manifest_maker
-ETA: 1 week
-The manifest maker - Makes a manifest based on a file hierarchy. The manifest is downloaded with the patch files.
+A simple manifest maker for our Project Fiter Schema. Requires [node](https://nodejs.org/en/). Once downloaded, go the **src** folder and open manifest.js in a text editor. Near the top is the one line you should edit. 
+```const location = "C:\\Users\\username\\path\\to\\project\\files"```
+Change the location to the specified location with either double slashes a single forward slash. Remember to save, then double click the script, "ManifestMaker.cmd". As of now, I won't make it an executable.
+
+The manifest maker uses third-party library *[directory-tree](https://www.npmjs.com/package/directory-tree)*. Otherwise, it uses native node modules: fs, path, readline.

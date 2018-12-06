@@ -9,7 +9,7 @@ const location  = "C:\\Users\\barry\\Downloads\\___x\\project-fiterv.0.0.1";
 const hierarchy = require("./hierarchy.js");
 const readline  = require("readline");
 const file      = require("fs").createWriteStream("./manifest.xml");
-const version    = "0.0.1"
+const version    = "v0.0.1"
 
 // get user input for place to manifest-ate
 if (!location) {

@@ -69,6 +69,7 @@ One child of the *manifest*. It typically holds:
   - key : element - Username
   - value : element - The key for their account, undecided numeral system but might become base64 ASCII
 *keyValuePair is optional*
+* version - The version the manifest is in. Typically accessed for patch updates
 ##### manifestContent
 One child of the *manifest*. It typically holds:
 * data - This holds the file or directory

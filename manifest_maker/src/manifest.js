@@ -25,11 +25,6 @@ if (!location) {
 	});
 }
 
-// pause
-while (location === undefined) {
-	setTimeout(() => {}, 200)
-}
-
 // put everything under a loop
 console.log("Loading...");
 setTimeout(() => {

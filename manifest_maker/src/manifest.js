@@ -9,12 +9,7 @@ const location  = "C:\\Users\\barry\\Downloads\\___x\\project-fiterv.0.0.1";
 const hierarchy = require("./hierarchy.js");
 const readline  = require("readline");
 const file      = require("fs").createWriteStream("./manifest.xml");
-
-String.prototype.cutBuffer = function () {
-	if (this.length !== 2) {
-		return this.length = this.substring(this.length, this.length-4);
-	};
-}
+const version    = "v0.0.1"
 
 // get user input for place to manifest-ate
 if (!location) {
@@ -30,11 +25,6 @@ if (!location) {
 	});
 }
 
-// pause
-while (location === undefined) {
-	setTimeout(() => {}, 200)
-}
-
 // put everything under a loop
 console.log("Loading...");
 setTimeout(() => {
@@ -48,6 +38,9 @@ SITE: https://github.com/dystopian-games/project-fiter/tree/stable/archives -->
 
 	// manifestMetaData tag
 	file.write("\n		<manifestMetaData>");
+
+	// version
+	file.write("\n				<version>" + version + "</version>")
 
 	// manifestMetaData closing tag
 	file.write("\n		</manifestMetaData>");

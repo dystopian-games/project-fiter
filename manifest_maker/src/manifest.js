@@ -49,7 +49,10 @@ SITE: https://github.com/dystopian-games/project-fiter/tree/stable/archives -->
 	file.write("\n		<manifestContents>");
 
 	//B/E/G/I/N/D/A/T/A/W/R/I/T/E
-	file.write(hierarchy(location));
+	let data = hierarchy(location);
+	for (let i = 0; data[i]; i++) {
+		file.write(data[i]);
+	};
 
 	// manifestContents closing tag
 	file.write("\n    </manifestContents>");

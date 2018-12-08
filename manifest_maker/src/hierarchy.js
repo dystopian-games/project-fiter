@@ -1,12 +1,19 @@
 const hierarchyfileread  = require("directory-tree");
+
 const path               = require("path");
+
+
 
 "use strict";
 
+
+
 /* converttoTags - Converts object from package 'directory-tree'
+
  * to a string conformant to the PF manifest standard
 */
 // tabulate - Recieves one number for the amount of tabs
+
 function tabulate(index) {
 	let horizTab = "";
 	if (index === 0) {
@@ -44,6 +51,14 @@ function converttoDataTag(objectData) {
 module.exports = directory => {
 	// directory tree returns an object with the beginning path
 	let data = hierarchyfileread(path.win32.normalize(directory));
+	let returnArr = [];
+	
 	if (!data) throw "Invalid path";
-	return converttoDataTag(data);
+	
+	// iterate through only children folders
+	for (let i = 0; data.children[i]; i++) {
+		returnArr.push(converttoDataTag(data.children[i]));
+	}
+	return returnArr;
 };
+

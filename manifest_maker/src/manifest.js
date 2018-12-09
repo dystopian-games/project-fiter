@@ -30,11 +30,7 @@ console.log("Loading...");
 setTimeout(() => {
 
 	// write header
-	file.write(`<?xml version="1.0" encoding="UTF-8" ?>
-<!-- This is ALL subject to change
-NAMESPACE: manifest, ENCODING: UTF-8,
-SITE: https://github.com/dystopian-games/project-fiter/tree/stable/archives -->
-<manifest xmlns:manifest="https://github.com/dystopian-games/project-fiter/tree/stable/archives">`);
+	file.write("<manifest xmlns:manifest=\"https://github.com/dystopian-games/project-fiter/tree/stable/archives\">");
 
 	// manifestMetaData tag
 	file.write("\n		<manifestMetaData>");
